@@ -26,4 +26,6 @@
 *.synctex.gz(busy)
 *.fdb_latexmk
 
+.venv
+thumbnails/
 report.pdf
